@@ -1,35 +1,18 @@
 {
 	"pages": [{
-            "path" : "pages/home/home",
-            "style" :                                                                                    
-            {
-                "enablePullDownRefresh": false
-            }
+            "path" : "pages/home/home"
             
         }
         ,{
-            "path" : "pages/cate/cate",
-            "style" :                                                                                    
-            {
-                "enablePullDownRefresh": false
-            }
+            "path" : "pages/cate/cate"
             
         }
         ,{
-            "path" : "pages/cart/cart",
-            "style" :                                                                                    
-            {
-                "enablePullDownRefresh": false
-            }
+            "path" : "pages/cart/cart"
             
         }
         ,{
-            "path" : "pages/my/my",
-            "style" :                                                                                    
-            {
-                "enablePullDownRefresh": false
-            }
-            
+            "path" : "pages/my/my"
         }
     ],
 	"globalStyle": {
